@@ -1,6 +1,5 @@
 # 1-Projeto-HTML-CSS-e-JS-
-
-Portifólio do desenvolvedor
+Portfólio do desenvolvedor
 
 ## Tarefas
 
